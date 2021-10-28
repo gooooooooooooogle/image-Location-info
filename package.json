@@ -1,8 +1,8 @@
 {
-  "name": "1111111111111111111",
+  "name": "image-Location-info",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node --inspect-brk app.js"
   },
