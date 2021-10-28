@@ -1,0 +1,17 @@
+{
+  "name": "1111111111111111111",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect-brk app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exif-reader": "^1.0.3",
+    "local-reverse-geocoder": "^0.11.1",
+    "sharp": "^0.29.2"
+  }
+}
